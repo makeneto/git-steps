@@ -8,6 +8,3 @@ git status
 git commit -m " arquivos iniciais"
 git checkout -b novos-arquivos
 git push origin novos-arquivos
- 
-
-v1
