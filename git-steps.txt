@@ -1,0 +1,10 @@
+git clone https://github.com/makeneto/makenedev.git
+cd makenedev
+code .
+ls
+git status
+git add .
+git status
+git commit -m "Init files"
+git checkout -b new-files
+git push origin new-files
